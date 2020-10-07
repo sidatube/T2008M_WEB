@@ -1,0 +1,47 @@
+body{
+    background-image: url(../Img/679160.jpg);
+    background-repeat: no-repeat; /* ko lặp ảnh*/
+    background-size: cover;/* kiểu*/
+    /*   đi lên : "../".
+     đi sang : "tên thư mục".
+     đi xuống: " / ".
+    */
+}
+h1{
+    color: #ff0000;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    font-weight: 700;
+    line-height: 50px;
+    text-decoration: none;
+    /*underline gạch chân*//*line-through gạch ngang*/
+    /*overline gạch trên*//*none không làm gì*/
+     */
+    text-transform: none;
+    /*uppercase viết hoa*//*lowercase viết thường*/
+    /*capitalize viết hoa chữ cái đầu tiên của từng chữ*/
+    /*none không làm gì cả*/
+    text-shadow: 5px 5px 4px red;
+}
+P{
+    font-size: 28px;
+    line-height: 1.2;
+    color: #333333;
+    width: 700px;
+    text-align: center;
+    /*left center right - justify căn đều*/
+    background-color: whitesmoke;/* màu nền*/
+    border: 1px solid lavenderblush;
+    /*
+    solid đường thẳng
+    dotted chấm
+    dashed giải phân cách.
+     */
+    /*
+    lavenderblush màu sắc.
+     */
+
+}
+img{
+    max-width: 100%;
+}
