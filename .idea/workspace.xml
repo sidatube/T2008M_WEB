@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="code">
+    <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/As2.html" beforeDir="false" afterPath="$PROJECT_DIR$/As2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB\AS" />
       <recent name="D:\WEB\Img" />
     </key>
   </component>
@@ -63,6 +63,9 @@
       <workItem from="1602056472506" duration="9536000" />
       <workItem from="1602071934105" duration="61000" />
       <workItem from="1602072973520" duration="183000" />
+      <workItem from="1602073215362" duration="166000" />
+      <workItem from="1602073490407" duration="36000" />
+      <workItem from="1602075264880" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1602039846449</created>
@@ -99,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602071865363</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="code">
+      <created>1602073271634</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602073271634</updated>
+    </task>
+    <task id="LOCAL-00007" summary="code">
+      <created>1602073371849</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602073371849</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,18 +127,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1602073147809">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1602073371363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602073147809" />
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602073371363" />
     <state x="839" y="0" key="RollbackChangesDialog" timestamp="1602073136191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602073136191" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602073126586">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602073373327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602073126586" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602073373327" />
     <state x="623" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1602071102149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
