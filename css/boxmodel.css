@@ -1,0 +1,50 @@
+*{
+
+}
+body{
+    background-color: mistyrose;
+    color: #242424;
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+}
+div{
+    width: calc(25% - 42px);
+    height: auto;
+   /* border: 1px solid red;*/
+    padding: 20px;
+    float: left;
+    margin: 20px;
+    box-sizing: border-box;/*không dùng có 350*/
+    overflow: hidden;/* xử lí tràn*/
+    box-shadow: 0px 0px 5px #000008; /* đổ bóng*/
+    border-radius: 6px; /* cắt góc*/
+    background-color: ivory;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+#nt{
+    width: calc(80% - 42px);
+    height: auto;
+    float: none;
+    margin: auto;
+}
+#a{
+    padding: 20px;
+    float: none;
+    margin: auto;
+}
+#re{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    float: none;
+    margin: auto;
+}
+#re img{
+    height: auto;
+    border-radius: 100%;
+}

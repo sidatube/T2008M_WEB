@@ -1,7 +1,14 @@
 body{
-    max-width: 200 ;
-    width: 700px;
-    margin-left: 300px;
+    font-family: "Times New Roman";
+    width: 60%;
+    margin: auto;
+}
+.a {
+    border-bottom: dashed red 1px;
+}
+.aaa {
+    text-decoration: underline;
+    color: red;
 }
 img{
     float: left;
@@ -11,7 +18,4 @@ span{
 }
 h3{
     color: red;
-}
-p{
-    font-size: 18px;
 }
