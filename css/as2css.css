@@ -4,7 +4,7 @@ body{
     margin: auto;
 }
 #p1{
-    border-bottom: dashed red 1px;
+    border-bottom: dashed red 2px;
 }
 #p2{
     text-decoration: underline;
