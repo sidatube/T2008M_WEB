@@ -5,21 +5,15 @@ div{
     padding-left: 15%;
     padding-right: 15%;
 }
-#p1{
-    border-bottom: dashed red 2px;
-}
-#p2{
-    text-decoration: underline;
-    color: red;
-}
 img{
     float: left;
 }
 span{
     float: right;
 }
-h3{
+#p2{
     text-decoration: underline;
     color: red;
+    border-top: dashed red 2px;
 }
 
