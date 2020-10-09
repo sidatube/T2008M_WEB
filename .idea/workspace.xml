@@ -4,7 +4,6 @@
     <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/As2.html" beforeDir="false" afterPath="$PROJECT_DIR$/As2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/as2css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/as2css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <workItem from="1602205300274" duration="6405000" />
       <workItem from="1602211785981" duration="921000" />
       <workItem from="1602214040472" duration="11933000" />
-      <workItem from="1602239758439" duration="2393000" />
+      <workItem from="1602239758439" duration="3879000" />
     </task>
     <task id="LOCAL-00001" summary="code">
       <created>1602039846449</created>
@@ -187,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602241914163</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="code">
+      <created>1602242661747</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242661747</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,19 +217,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602123839369" />
-    <state x="468" y="0" key="CommitChangelistDialog2" timestamp="1602241913751">
+    <state x="468" y="0" key="CommitChangelistDialog2" timestamp="1602242661274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602241913751" />
+    <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602242661274" />
     <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602123821852" />
     <state x="839" y="0" key="RollbackChangesDialog" timestamp="1602073136191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602073136191" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1602241915918">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1602242664537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602241915918" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602242664537" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602123824301" />
     <state x="623" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1602071102149">
       <screen x="0" y="0" width="1920" height="1040" />
