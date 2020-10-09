@@ -3,10 +3,10 @@ body{
     width: 60%;
     margin: auto;
 }
-.a {
+#p1{
     border-bottom: dashed red 1px;
 }
-.aaa {
+#p2{
     text-decoration: underline;
     color: red;
 }
