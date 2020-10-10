@@ -19,8 +19,8 @@ span{
 }
 #p2{
     text-decoration: underline;
-    color: red;
-    border-top: dashed red 2px;
+    color: #ff0000;
+    border-top: dashed #ff0000 2px;
     font-size: 26px;
 }
 
