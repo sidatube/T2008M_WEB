@@ -2,69 +2,73 @@
 
 }
 body{
-    background-color: mistyrose;
-    color: #242424;
+    background-color: mistyrose; /* màu nền*/
+    color: #242424;/* màu chữ*/
     font-size: 16px;
     line-height: 1.25;
     font-weight: 300;
-    font-family: 'Dancing Script', cursive;
-    background-image: url("../Img/1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    font-family: 'Dancing Script', cursive;/* font chữ */
+    background-image: url("../Img/1.jpg");/* ảnh nền  */
+    background-repeat: no-repeat;/* ko lặp ảnh */
+    background-size: cover;/* ảnh bao toàn nền */
 }
 #d1{
-    width: 80%;
-    height: 100%;
-    margin: auto;
+    width: 80%; /* độ rộng của div 1 */
+    margin: auto; /* để div 1 nằm giữa trang */
+    /* div 2 3 4 là div nằm trong div 1 */
+    /* div 2 là james phillips */
+    /* div 3 chứa  avatar( cho nó vào div 5 để cho đẹp) */
+    /* div 4 là cái còn lại( cái div dưới div 2 và bị div 3 đè lên */
 }#d4{
-     width: 100%;
-     background-color: #eeeeee;
-    padding-bottom: 100px;
-     
+     width: 100%; /* cho độ rộng = của div 1 */
+     background-color: #eeeeee;/* màu nền */
+     padding-bottom: 100px;
  }
 #d2{
-    width: 100%;
-    background-color: #b9c2cb;
-    height: 150px;
-    float: left;
-    margin: auto;
-    text-align: center;
+    width: 100%;/* cho độ rộng = của div 1 */
+    background-color: #b9c2cb;/* màu nền */
+    height: 150px;/* độ cao */
+    float: left; /* để div 2 và div 4 ko bị tách nhau */
+    margin: auto;/* để div nằm giữa */
+    text-align: center;/* font chữ ở giữa div */
 }
 #d3{
-    float: left;
-    width: 25%;
-    height: auto;
+    float: left; /* để div 2 chiếm phần bên trái */
+    width: 25%; /* độ rộng */
+    height: auto; /* tự động sửa độ cao */
     background-color: #e7e7e7;
-    margin-top: -120px;
-    margin-left: 20px;
+    margin-top: -120px; /* kéo nó lên trên */
+    margin-left: 20px;/* tạo lề ngoài bên trái , phải , dưới */
     margin-right: 20px;
     padding-bottom: 10px;
 }
 h2{
-    text-transform: uppercase;
+    text-transform: uppercase;/* viết hoa */
 }
 h4{
     text-transform: uppercase;
 }
 #x{
-    border-bottom: 1px solid #a1a1a1;
+    border-bottom: 1px solid #a1a1a1;/* đường gạch */
 }
+/* div 5 chỉ dùng để ảnh */
 #d5{
-    width: 80%;
-    border-radius: 100%;
-    float: none;
-    margin: 20px auto;
+    width: 80%; /* chiếm 80 % độ rộng div 3 */
+    border-radius: 100%; /* làm cái div này có hình tròn */
+    float: none; /* ko  có tác động vào div */
+    margin: 20px auto;/* lề ngoài trên là 20 px. còn lại là auto cho cái div ở chính giữa */
 }
+/* chỉnh sửa ảnh  */
 #d5 img{
-    width: 100%;
-    border-radius: 100%;
+    width: 100%; /* giới hạn ảnh trong div */
+    border-radius: 100%; /* làm tròn ảnh */
 }
+/* phần chữ của div 3 */
 #d6{
-    width: 80%;
-    margin: auto;
+    width: 80%;/* độ rộng = 80% div 3 */
+    margin: auto;/*  cho nó ở giữa */
 }
 #d7{
-    padding-left: 29%;
-    padding-right: 5%;
-
+    padding-left: 29%;/* lề trái*/
+    padding-right: 5%; /* lề phải */
 }
