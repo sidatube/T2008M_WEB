@@ -99,7 +99,7 @@ div#nt img{
     background-color: orange;
 }
 .animate{
-    /*animation: box_animation2;*/
+    animation: box_animation2;
     animation-duration: 6s;
     animation-delay:3s;
     animation-iteration-count: infinite;
