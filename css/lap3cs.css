@@ -4,16 +4,16 @@
 body{
     background-color: mistyrose; /* màu nền*/
     color: #242424;/* màu chữ*/
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.25;
-    font-weight: 300;
+    font-weight:400;
     font-family: 'Dancing Script', cursive;/* font chữ */
     background-image: url("../Img/1.jpg");/* ảnh nền  */
     background-repeat: no-repeat;/* ko lặp ảnh */
     background-size: cover;/* ảnh bao toàn nền */
 }
 #d1{
-    width: 80%; /* độ rộng của div 1 */
+    width: 70%; /* độ rộng của div 1 */
     margin: auto; /* để div 1 nằm giữa trang */
     /* div 2 3 4 là div nằm trong div 1 */
     /* div 2 là james phillips */
@@ -27,17 +27,17 @@ body{
 #d2{
     width: 100%;/* cho độ rộng = của div 1 */
     background-color: #b9c2cb;/* màu nền */
-    height: 150px;/* độ cao */
+    height: 250px;/* độ cao */
     float: left; /* để div 2 và div 4 ko bị tách nhau */
     margin: auto;/* để div nằm giữa */
     text-align: center;/* font chữ ở giữa div */
 }
 #d3{
     float: left; /* để div 2 chiếm phần bên trái */
-    width: 25%; /* độ rộng */
+    width:300px;
     height: auto; /* tự động sửa độ cao */
     background-color: #e7e7e7;
-    margin-top: -120px; /* kéo nó lên trên */
+    margin-top: -200px; /* kéo nó lên trên */
     margin-left: 20px;/* tạo lề ngoài bên trái , phải , dưới */
     margin-right: 20px;
     padding-bottom: 10px;
@@ -54,7 +54,6 @@ h4{
 /* div 5 chỉ dùng để ảnh */
 #d5{
     width: 80%; /* chiếm 80 % độ rộng div 3 */
-    border-radius: 100%; /* làm cái div này có hình tròn */
     float: none; /* ko  có tác động vào div */
     margin: 20px auto;/* lề ngoài trên là 20 px. còn lại là auto cho cái div ở chính giữa */
 }
