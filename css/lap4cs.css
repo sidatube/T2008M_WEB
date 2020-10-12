@@ -1,0 +1,73 @@
+*{
+    font-family: 'Dancing Script', cursive;
+
+}
+body{
+    background-color: mistyrose;
+    font-size: 18px;
+    line-height: 1.25;
+}
+#bocuc{
+    float: none;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+}
+div{
+    margin: auto;
+
+}
+h2{
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+}
+#d1{
+    width: 90%;
+    background-color: white;
+    padding: 15px;
+    padding-left: 20px;
+    float: none;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.da{
+    box-shadow: 0px 0px 5px #000008;
+    float:left;
+    width: 30%;
+    height: auto;
+    margin: 1%;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 50px;
+}
+img{
+    max-width: 100%;
+}
+.db{
+    padding: 5px;
+    background-color: #000000;
+    color: white;
+}
+}
+@keyframes nt_rec {
+    0%{
+        background-color: black;
+    }
+    20%{
+        background-color: red;
+    }
+    40%{
+        background-color: white;
+    }
+    60%{
+        background-color: green;
+    }
+    80%{
+        background-color: green;
+    }
+    100%{
+        background-color: black;
+    }
+}

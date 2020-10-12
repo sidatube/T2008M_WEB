@@ -10,7 +10,7 @@ body{
     font-family: 'Dancing Script', cursive;
 }
 div{
-    width: calc(25% - 42px);
+    width: calc(25% - 40px);
     height: auto;
    /* border: 1px solid red;*/
     padding: 20px;
@@ -31,20 +31,44 @@ img{
     height: auto;
     float: none;
     margin: auto;
+    margin-bottom: 20px;
 }
 #a{
+    width: 50%;
     padding: 20px;
     float: none;
     margin: auto;
 }
 #re{
-    width: 150px;
-    height: 150px;
-    border-radius: 100%;
+    width: 200px;
+    height: auto;
     float: none;
     margin: auto;
+    border-radius: 100%;
+    padding: none;
+
 }
 #re img{
-    height: auto;
+    max-width: 100%;
     border-radius: 100%;
+}
+#a img{
+    max-width: 100%;
+    padding: -20px;
+}
+.sida{
+    transition: all 1000ms;
+}
+.sida:hover{
+    transform: rotate(360deg);
+    background-color: darkorange;
+}
+.animet{
+
+}
+@keyframes bo_animetion {
+    from{
+        transform: ;
+    }
+
 }
