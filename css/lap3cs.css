@@ -34,7 +34,7 @@ body{
 }
 #d3{
     float: left; /* để div 2 chiếm phần bên trái */
-    width:300px;
+    width:25%;
     height: auto; /* tự động sửa độ cao */
     background-color: #e7e7e7;
     margin-top: -200px; /* kéo nó lên trên */
@@ -59,7 +59,7 @@ h4{
 }
 /* chỉnh sửa ảnh  */
 #d5 img{
-    width: 100%; /* giới hạn ảnh trong div */
+    max-width: 100%; /* giới hạn ảnh trong div */
     border-radius: 100%; /* làm tròn ảnh */
 }
 /* phần chữ của div 3 */
