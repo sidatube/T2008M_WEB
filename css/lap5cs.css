@@ -3,7 +3,7 @@
 }
 Body{
 background-color: #e5e5e5;
-font-size: 30px;
+font-size: 25px;
 }
 #sida{
     border-radius: 5px;
@@ -22,17 +22,18 @@ h2{
     background-color: #e0e0e0;
     float: none;
     width: 95%;
-    font-size: 30px;
+    font-size: 25px;
     margin: 2%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 .si{
     background-color: #e0e0e0;
-    font-size: 30px;
+    font-size: 25px;
     width: 45.5%;
     margin: 2%;
     border-top-left-radius: 10px;
+
     border-top-right-radius: 10px;
 }
 .sit:focus{
