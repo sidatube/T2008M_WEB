@@ -20,6 +20,8 @@ h2{
 }
 .sit{
     background-color: #e0e0e0;
+    border: 0px solid #e0e0e0 ;
+    border-bottom: 1px solid #535353 ;
     float: none;
     width: 95%;
     font-size: 25px;
@@ -28,7 +30,9 @@ h2{
     border-top-right-radius: 10px;
 }
 .si{
+    border: 0px solid #e0e0e0 ;
     background-color: #e0e0e0;
+    border-bottom: 1px solid #535353 ;
     font-size: 25px;
     width: 45.5%;
     margin: 2%;
@@ -67,4 +71,7 @@ h2{
 #c3{
     float: none;
     margin-left: 31%;
+}
+.ez{
+    margin-left: 54%;
 }
