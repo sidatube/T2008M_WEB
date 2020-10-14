@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lap5</title>
+    <link rel="stylesheet" href="css/lap5cs.css">
+</head>
+<body>
+    <div id="sida">
+        <form action="#" method="post">
+            <h2>Creat task</h2>
+            <input class="sit" name="type" type="text" placeholder="Type" required/>
+            <p><select class="si" name="company" required>
+               <option value="ct1">Company 1</option>
+               <option value="ct2">Company 2</option>
+               <option value="ct3">Company 3</option>
+               <option value="ct4">Company 4</option>
+               <option value="ct5">Company 5</option>
+            </select>
+            <select class="si" name="opportunity">
+               <option value="op1">Opportunity 1</option>
+               <option value="op2">Opportunity 2</option>
+               <option value="op3">Opportunity 3</option>
+               <option value="op4">Opportunity 4</option>
+               <option value="op5">Opportunity 5</option>
+            </select></p>
+            <input class="sit" name="taskname" type="text" placeholder="Task name" required/>
+            <input class="sit" name="cc" type="text" placeholder="CC" />
+            <div class="cham">
+                <h4>Nature of request</h4>
+                <p><label><input name="nor" value="adsriview" type="checkbox"/>Ads review</label></p>
+                <p><label><input name="nor" value="keywordreview" type="checkbox"/>Keyworld review</label></p>
+                <p><label><input name="nor" value="extensionreview" type="checkbox"/>Extension review</label></p>
+            </div>
+            <div class="cham">
+                <h4>Current reviewable status</h4>
+                <p><label><input name="crs" value="approved" checked type="radio"/>Approved</label></p>
+                <p><label><input name="crs" value="notapproved" type="radio"/>Not approved</label></p>
+            </div>
+            <div class="bi">
+            <button class="is" id="c1" type="submit">Gửi đi</button>
+            <button class="is" id="c2" type="button">Button</button>
+            <button class="is" id="c3" type="reset">Reset</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
