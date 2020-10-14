@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form bài 4</title>
+    <link rel="stylesheet" href="css/bai4formcs.css">
+</head>
+<body>
+    <div class="survey">
+        <form action="#" method="get">
+            <input class="form-sit" name="full_name" minlength="5" maxlength="10" type="text" placeholder="Full name" required/>
+            <input class="form-sit" name="email" type="email" placeholder="Email" required/>
+            <input class="form-sit" name="password" minlength="6" pattern="[A-Z][a-z][0-9]*" type="password" placeholder="Password"required/>
+            <input class="form-sit" name="age" min="18" max="20" type="number" placeholder="Age"/>
+            <input class="form-sit" name="birthday" type="date" placeholder="Birthday"/>
+            <input class="form-sit" name="mycolor" type="color" placeholder="My Color"/>
+
+            <input name="price_range" type="range" min="0" max="100"/>
+            <P>Giới tính</P>
+            <label><input name="sex" value="nam" checked type="radio"/>Nam</label>
+            <label><input name="sex" value="nu" type="radio"/>Nữ</label>
+            <label><input name="sex" value="khac" type="radio"/>Khác</label>
+            <p>
+                <label><input required type="checkbox" name="confirm"/>Tôi đã đọc và châp nhận điều khoản</label>
+            </p>
+            <p>Thành Phố sinh sống</p>
+            <select name="city">
+                <option value="hn">Hà Nội</option>
+                <option value="sg">Sài Gòn</option>
+                <option value="ct">Cần Thơ</option>
+                <option value="dn">Đà Nẵng</option>
+                <option value="hp">Hải Phòng</option>
+            </select>
+            <p>Nhận xét:</p>
+            <textarea name="comment" rows="10" cols="50" placeholder="Viết Nhận xét của bạn..."></textarea>
+            <br/>
+            <button type="submit">Gửi đi</button>
+            <button type="button">Button</button>
+            <button type="reset">Reset</button>
+        </form>
+    </div>
+</body>
+</html>

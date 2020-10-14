@@ -34,7 +34,7 @@ h3{
 }
 .da{
     overflow: hidden;
-    border-radius: 3%;
+    border-radius: 3px;
     box-shadow: 0px 0px 5px #000008;
     float:left;
     width: 30%;

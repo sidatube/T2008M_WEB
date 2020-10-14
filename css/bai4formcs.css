@@ -1,0 +1,19 @@
+.form-sit{
+    width: 250px;
+    padding: 5 px 10px;
+    height: 25px;
+    background-color: #b9c2cb;
+    margin: 10px;
+    border: none;
+    box-shadow: 0 0 5px #AAAAAA;
+    border-radius: 5px;
+    font-family: SansSerif;
+    font-size:  15px;
+    color: #232323;
+    text-align: center;
+}
+.form-sit:focus{
+    outline: none;
+    box-shadow: 0 0 5px darkred;
+
+}
