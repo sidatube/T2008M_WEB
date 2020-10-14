@@ -4,6 +4,8 @@
 Body{
 background-color: #e5e5e5;
 font-size: 25px;
+    float: none;
+
 }
 #sida{
     border-radius: 5px;
@@ -74,4 +76,11 @@ h2{
 }
 .ez{
     margin-left: 54%;
+    margin-top: -40px;
+}
+.ex{
+    float:none;
+    margin-left: 5%;
+    margin-top: -15px;
+
 }
