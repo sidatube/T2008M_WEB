@@ -10,18 +10,20 @@ body{
     font-family: 'Dancing Script', cursive;
 }
 div{
-    width: calc(25% - 4px);
+    width: calc(23% - 4px);
     height: auto;
    /* border: 1px solid red;*/
-    padding: 20px;
-    float: left;
     margin: 20px;
+    float: left;
     box-sizing: border-box;/*không dùng có 350*/
     overflow: hidden;/* xử lí tràn*/
     box-shadow: 0px 0px 5px #000008; /* đổ bóng*/
     border-radius: 6px; /* cắt góc*/
     background-color: ivory;
     text-align: center;
+}
+.bt{
+    padding: 20px;
 }
 img{
     max-width: 100%;
@@ -34,22 +36,24 @@ img{
     margin-bottom: 20px;
 }
 #a{
+    position: relative;
+
     width: 50%;
     padding: 20px;
     float: none;
     margin: auto;
 }
 #re{
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: 200px;
     height: auto;
     float: none;
     margin: auto;
-    border-radius: 100%;
-    padding: none;
-
+    margin-bottom: 10px;
 }
 #re img{
-    max-width: 100%;
     border-radius: 100%;
 }
 #a img{
