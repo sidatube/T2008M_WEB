@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    color: #242424;
+    font-size: 16px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Dancing Script', cursive;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    float: none;
+}
+.linkden{
+    color: #323232;
+    text-decoration: none;
+}
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 20px 0;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 30%;
+    float: left;
+}
+.top-links{
+    width: 30%;
+    float: right;
+}
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 15px;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.aside{
+    float: left;
+    width: 25%;
+    padding-left: 15px;
+}
+.content{
+    float: left;
+    width: 75%;
+    padding-right: 15px;
+}
+.content-body{
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 30px;
+}
+.block{
+    float: left;
+    width: 100%;
+    padding: 30px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+}
+.subcribe{
+    background-color: #000008;
+    color: white;
+}
+.form{
+    width: 100%;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
+.farm{
+    width: 100%;
+    background-color: red;
+    border: 0 ;
+    padding: 10px;
+    margin-top: 5px;
+}
+.fate{
+    margin: 5px;
+}
+.fate:hover{
+    transform: scale(1.1);
+}
+.fa{
+    float: right;
+}
+.linkdo{
+    color: #ec3232;
+}
+h1{
+    font-size: 45px;
+    padding: 10px auto 10px 0;
+}
+h4{
+    margin: 10px auto 20px auto;
+}
