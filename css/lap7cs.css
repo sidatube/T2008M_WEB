@@ -1,0 +1,110 @@
+body{
+    background-color: white; !important;
+    color:#242424;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.sida{
+    padding-top: 20px;
+}
+.beeep{
+
+    float: left;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.logo{
+    height: 100px;
+}
+.rac{
+    border-bottom: 1px solid #b9c2cb;
+}
+.bamdc{
+    float: right;
+    padding-left: 15px;
+    color: white;
+}
+.bamdc:hover{
+    color: blue;
+}
+.top-links {
+    background-color: #2aabd2;
+    height: 100px;
+}
+header{
+    background-image: url("../anhbt/Anhlap7/b01.jpg");
+    color: white;
+}
+.header{
+padding: 15px auto 15px auto;
+}
+.vovan{
+    padding-top: 20px;
+   width: 100%;
+    float: none;
+    text-align: center;
+}
+.sac{
+    background-color: #f2f2f2;
+    padding: 10px 5px ;
+    border: 0 solid ;
+    margin: 0 5px;
+}
+
+.tentau{
+    font-size: 20px;
+}
+.flip{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    position: relative;
+    top: 75px;
+    left: 85%;
+    background-color: white;
+}
+.ki{
+    position: relative;
+    top: 25%;
+    left: 30%;
+
+}
+.flip-container{
+    margin-top: 20px;
+    background-color: dodgerblue;
+}
+.flip-container:hover{
+    background-color: mediumblue;
+    color: white;
+}
+.bentrai{
+    background-color: white;!important;
+    color:#242424;!important;
+    float: left;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+ }
+.Gia{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: dodgerblue;
+    float: right;
+
+}
+.sua{
+    font-size: 14px;
+    color: #b9c2cb;
+    text-transform: none;
+}
+.vl{
+    padding:0 0 15px;
+    text-align: center;
+}
