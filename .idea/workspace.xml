@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Font/Font" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/Anhlap7/b001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/Anhlap7/b002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/Anhlap7/b003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/Anhlap7/b004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/Anhlap7/b005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/Anhlap7/b006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/testbootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bootsrap 3.4.1/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lap7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bcc.html" beforeDir="false" afterPath="$PROJECT_DIR$/s7boostrap.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/anhbt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/anhbt/Anhlap7" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -70,17 +46,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WEB\anhbt" />
-      <recent name="D:\WEB\lib\bootsrap 3.4.1\css" />
-      <recent name="D:\WEB\lib\bootsrap 3.4.1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WEB\anhbt" />
       <recent name="D:\WEB\Font" />
       <recent name="D:\WEB\lib\bootsrap 3.4.1" />
       <recent name="D:\WEB\icon" />
       <recent name="D:\WEB" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEB\anhbt\Anhlap7" />
+      <recent name="D:\WEB\anhbt" />
+      <recent name="D:\WEB\lib\bootsrap 3.4.1\css" />
+      <recent name="D:\WEB\lib\bootsrap 3.4.1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -125,13 +102,7 @@
       <workItem from="1602808572906" duration="12348000" />
       <workItem from="1603069860846" duration="1899000" />
       <workItem from="1603071791487" duration="5641000" />
-    </task>
-    <task id="LOCAL-00005" summary="code">
-      <created>1602071865363</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1602071865363</updated>
+      <workItem from="1603078535647" duration="794000" />
     </task>
     <task id="LOCAL-00006" summary="code">
       <created>1602073271634</created>
@@ -469,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603070430115</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="code">
+      <created>1603078580282</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1603078580282</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,11 +471,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602123839369" />
-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1603070429714">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1603078579655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602396818347" />
-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603070429714" />
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603078579655" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603078937702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603078937702" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1603072706262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -506,11 +488,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602073136191" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603070435444">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603078736681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602396822727" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603070435444" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603078736681" />
     <state x="94" y="0" width="1575" height="1028" key="dock-window-1" timestamp="1603073079809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
