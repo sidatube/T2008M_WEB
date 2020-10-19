@@ -6,6 +6,11 @@ body{
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
+.cuaform{
+text-align: right;
+    margin: auto;
+    text-transform: uppercase;
+}
 .sida{
     padding-top: 20px;
 }
@@ -13,13 +18,40 @@ body{
 
     float: left;
 }
+.bbb{
+    padding:0 10px;
+    background-color: unset;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+}
+.bbb:hover{
+    color: mediumblue;
+    text-decoration: none;
+}
+.b{
+    color: #242424;
+}
 img{
     max-width: 100%;
     height: auto;
 }
+.dmg{
+    float: left;
+    width: 100%;
+}
 .section{
     float: left;
     width: 100%;
+}
+.scx{
+    font-size: 60px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.bct{
+    text-align: center;
+    padding-bottom: 100px;
 }
 .logo{
     height: 100px;
@@ -31,6 +63,7 @@ img{
     float: right;
     padding-left: 15px;
     color: white;
+    margin-bottom: 10px;
 }
 .bamdc:hover{
     color: blue;
@@ -70,11 +103,9 @@ padding: 15px auto 15px auto;
     top: 30px;
     left: 85%;
     background-color: white;
-    z-index: 8;
+    z-index: -10;
 }
-.flip:hover{
-    z-index: 11;
-}
+
 .ki{
     position: relative;
     top: 25%;
@@ -84,14 +115,14 @@ padding: 15px auto 15px auto;
 .flip-container{
     margin-top: 20px;
     background-color: dodgerblue;
-    position: absolute;
-    z-index: 10;
+
 }
 .flip-container:hover{
     background-color: mediumblue;
     color: white;
-
-
+}
+.anhtau:hover .flip{
+    z-index:  10;
 }
 .bentrai{
     background-color: white;!important;
@@ -115,4 +146,10 @@ padding: 15px auto 15px auto;
 .vl{
     padding:0 0 15px;
     text-align: center;
+}
+.nhan{
+    color: white;
+    border: 0;
+    padding: 10px 15px;
+    margin-left: 15px;
 }
