@@ -5,6 +5,7 @@ body{
     line-height: 1.25;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
+    height: auto;
 }
 .cuaform{
 text-align: right;
@@ -53,12 +54,7 @@ img{
     text-align: center;
     padding-bottom: 100px;
 }
-.logo{
-    height: 100px;
-}
-.rac{
-    border-bottom: 1px solid #b9c2cb;
-}
+
 .bamdc{
     float: right;
     padding-left: 15px;
@@ -77,8 +73,13 @@ header{
     color: white;
 }
 .header{
-padding: 15px auto 15px auto;
+padding: 15px 0 15px 0;
 }
+.rac{
+     margin-top: 10px;
+     border-bottom: 1px solid #b9c2cb;
+     margin-bottom: 15px;
+ }
 .vovan{
     padding-top: 20px;
    width: 100%;
@@ -105,7 +106,9 @@ padding: 15px auto 15px auto;
     background-color: white;
     z-index: -10;
 }
-
+.vkl{
+    margin-top: 30px;
+}
 .ki{
     position: relative;
     top: 25%;
@@ -152,4 +155,80 @@ padding: 15px auto 15px auto;
     border: 0;
     padding: 10px 15px;
     margin-left: 15px;
+}
+.nut{
+    float: none;
+    text-align: center;
+}
+.nute{
+    border: 1px solid #242424;
+    background-color: white;
+    padding: 20px 25px;
+    margin: 60px 5px 80px;
+}
+.footer{
+    color: #a9aeb3;
+    background-color: #242424;
+}
+.abe{
+    margin-top: 50px;
+    height: auto;
+}
+.btv{
+
+    color: white;
+}
+.bba{
+    padding-bottom: 15px;
+}
+.mailc{
+    padding: 10px;
+    width: 100%;
+    background-color: #253241;
+    border: 0;
+}
+.dic{
+    position: absolute;
+    top: 88%;
+    right: 10%;
+}
+li{
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.bcc{
+    color: #cfcfcf;
+    text-decoration: none;
+}
+.bamdcc{
+    margin-top: 30px;
+}
+.con{
+    padding: 5px 5px 5px 0;
+}
+.bamc{
+    padding: 30px 15px 10px 25px;
+}
+.cccs{
+    color: #a9aeb3;
+}
+.cccs:hover{
+    color: blue;
+}
+.hnn{
+    text-transform: uppercase;
+    background-color: unset;
+    border: 1px solid white;
+    padding: 10px 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.hnn:hover{
+    background-color: white;
+    color: blue;
+}
+.bbc{
+    text-align: center;
+    padding: 10px 0 30px;
 }

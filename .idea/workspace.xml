@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/s4anhquangcs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s4anhquang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/lap7cs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lap7cs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/lap7.html" afterDir="false" />
@@ -108,14 +106,7 @@
       <workItem from="1603071791487" duration="5641000" />
       <workItem from="1603078535647" duration="1228000" />
       <workItem from="1603079793054" duration="7816000" />
-      <workItem from="1603111911280" duration="15888000" />
-    </task>
-    <task id="LOCAL-00010" summary="code">
-      <created>1602241264687</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1602241264687</updated>
+      <workItem from="1603111911280" duration="24042000" />
     </task>
     <task id="LOCAL-00011" summary="code">
       <created>1602241412128</created>
@@ -453,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603130922968</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="code">
+      <created>1603137593154</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1603137593154</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,11 +475,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602123839369" />
-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1603130922489">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1603137592733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602396818347" />
-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603130922489" />
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603137592733" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603078937702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -494,18 +492,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602073136191" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603130925195">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603158134961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602396822727" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603130925195" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603158134961" />
     <state x="94" y="0" width="1575" height="1028" key="dock-window-1" timestamp="1603073079809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="94" y="0" width="1575" height="1028" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603073079809" />
-    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1602071102149">
+    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1603162653019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602071102149" />
+    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603162653019" />
   </component>
 </project>
