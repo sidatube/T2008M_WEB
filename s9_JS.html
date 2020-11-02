@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test JS</title>
+</head>
+<body>
+    <script type="text/javascript">
+        // code js
+     //    var x;
+     //    if (x>5){
+     //        let y=20;
+     //    }
+     //    let y=10;
+     //    let k;// biết rằng k là 1 biến nhưng chưa tốn ô nhớ
+     //    k=10;// k là 1 number
+     //    k = " xin chao"; //k trở thành string
+     //    console.log("k ="+k);// Giống printf trong C
+     //    const c=25;// hằng số
+     //    let ar= [];// khai báo ar la 1 mảng trống
+     //    ar[0]=12;
+     //    ar[1]="hello"
+     //    ar[2]= []
+     //    ar[100000]=9 ;
+     //    ar[2][0]=[]
+     //    ar[2][1]= "xin chao"
+     //    ar[2][0][3]= 8;
+     //    //
+     //    console.log(ar)
+     //    var arr2=[];
+     //    arr2[0]=[1,2,3,4]
+     //    arr2[1]=[1,2,3,4]
+     //    arr2[2]=[1,2,3,4]
+     //    arr2[3]=[1,2,3,4]
+     //    let ob ={};// giống struct trong C
+     //    ob.name = "le van loi";
+     //    ob.age =19
+     //    ob.birth = '22/12/1999';
+     //    console.log(ob);
+     //    if(ob.age >18){
+     //        console.log( ob.name+" da den tuoi di tu")
+     //    }else {
+     //        console.log( ob.name+"Chua dne tuoi di tu")
+     //    }
+     //    var sv =[1,2,3,4,5,6,7,8,9,6.2,3];
+     //    for (let i=0 ;i<sv.length;i++) {
+     //        console.log
+     //        (
+     //            "SV -" + sv[i]
+     //    )
+     //        ;
+     //    }
+     //    hello();
+     //    function Tinhtong(a,b){
+     //        return a+b;
+     //    }
+     //    function hello(s){
+     //        console.log("hello");
+     //    }
+     //    var d = Tinhtong(5,4);
+     //    //alert( "Day la canh bao!");
+     //   // confirm("ban co chac chan muon mua hang?");
+     //   // console.log("kq: "+kq)
+     //   // var p = prompt("vui long dien ten:");//tra ve string
+     //  //  console.log(p);
+     //  //  var age = prompt("nhap tuoi cua ban:");//sting
+     //  //  age = parseInt(age);// paraseFloat
+     //    //19 ->19
+     //    //19asv->19
+     //    //afas12asf ->NaN - not a number
+     //    //1a1->1
+     //  //  console.log(age);
+     //    //Yeu cau nguoi dung phai nhap 1 so tu 0 den 99
+     //   // do{
+     //    //    var av=prompt("Nhập 1 số từ 0 đến 99");
+     //    //    av=parseInt(av);
+     //
+     //    //}while(av<0||av>99||isNaN(av));
+     //
+     //
+     //    //console.log(av) ;
+     //   // console.log("con số may mắn là:")
+     //   // var luckeynumber = parseInt(Math.random()*100);
+     //  //  console.log(luckeynumber);
+     //  //  if(av==luckeynumber){
+     //  //     alert("Bạn đã trúng thưởng")
+     // //   }else{
+     // //      alert("Bạn đã tạch")
+     //   // }
+     //    do {
+     //        var n1 = parseInt(Math.random() * 100);
+     //        n1 = parseInt(n1);
+     //        var n2 = parseInt(Math.random() * 100);
+     //        n2 = parseInt(n2);
+     //        var n3 = parseInt(Math.random() * 100);
+     //        n3 = parseInt(n3);
+     //        var n4 = parseInt(Math.random() * 100);
+     //        n4 = parseInt(n4);
+     //        var n5 = parseInt(Math.random() * 100);
+     //        n5 = parseInt(n5);
+     //    } while (n1 == n2 == n3 == n4 == n5 && n2 == n3 == n4 == n5 == n1 && n3 == n4 == n2 == n1 == n5 && n4 == n3 == n2 == n1 == n5);
+     //    console.log(n1,n2,n3,n4,n5);
+     //    var arx=[];
+     //    for(var i=0;i<5;i++){
+     //        var kc;
+     //        var flag;
+     //
+     //        do{
+     //            flag =false;
+     //            x=prompt("Nhap ar[%d]: ",i);
+     //
+     //            for(var j=0;j<i;j++){
+     //                if(arx[j]==x){
+     //                    flag =true;
+     //                    break;
+     //                }
+     //            }
+     //            if(flag ==false){
+     //                arx[i]=x;
+     //            }
+     //
+     //        }while(flag);
+     //    }
+     //    console.log("Mang da nhap la:\n");
+     //    for(var i=0;i<5;i++){
+     //        console.log(arx[i]);
+     //    }
+        var lk=[];
+        for (let i=0;i<5;i++){
+            let x;
+            do{
+               x =parseInt(Math.random()*100);
+            }while(lk.includes(x)|| isNaN(x));
+            lk[i]=x;
+        }
+        console.log(lk);
+
+        var mn=[];
+        for( let k=0;k<3;k++){
+            mn[k]=[];
+            for (let i=0;i<5;i++){
+                let x;
+                do{
+                    x= prompt("Nhap so:");
+                    x=parseInt(x);
+                }while(mn[k].includes(x)||isNaN(x))
+                mn[k][i]=x
+            }
+        }
+        console.log(mn)
+        // kiem tra
+        for(k=0;k<3;k++){
+            let sl =0;
+            for( let i=0;i<5;i++){
+                if(lk.includes(mn[k][i]))
+                    sl++;
+            }
+            if( sl==5){
+                alert("Ban da trung 100 VND");
+            }
+        }
+    </script>
+</body>
+</html>

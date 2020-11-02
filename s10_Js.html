@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test js 2</title>
+</head>
+<body>
+    <script type="text/javascript">
+        function canhbao(){//khai báo
+           // alert("Cảnh báo nguy hiểm");
+            console.log(("BB"))
+        }
+        //canhbaos(); thực thi hàm
+        //tạo delay
+    //    setTimeout(canhbao,3000);
+    //     setTimeout(function (){
+    //         alert("Cảnh báo nguy hiểm");
+    //     },2000)
+        //setInterval(canhbao,2000)
+        var min =2,sec =0;
+        var Clock = function (){//khai báo hàm
+            console.log(min+":"+sec);
+            sec--;
+            if(sec<0){
+                sec=59;min--;
+            }
+            if (min<0){
+                //zawarudo
+                clearInterval(time)
+            }
+
+        }
+
+        var time = setInterval(Clock,100)
+
+        // viết hàm theo kiểu arrow function
+        var Tinhtong = (a,b)=>{
+            return a+b;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test js with DOM</title>
+
+</head>
+<body>
+    <h1 id="he">Hello cc!</h1>
+
+    <img id="anh" src="Img/8.jpg" width="1920"/>
+    <script type="text/javascript">
+        function changeText(){
+            var head = document.getElementById("he")
+            head.innerText = "Gút mo ning!";
+            head.style.color ="red";
+            head.style.backgroundColor= "orange";
+            //them class
+            head.classList.add("heading")
+            //tac động img
+            var im1 =document.getElementById("anh");
+            im1.src = "Img/12.png"
+
+        }
+        setTimeout(changeText,2500);
+
+        function anhanhien(){
+            var im1 = document.getElementById("anh");
+            if(im1.style.display=="none"){
+                im1.style.display= "block"
+            }else{
+                im1.style.display= "none"
+            }
+        }
+       // setInterval(anhanhien,1000);
+        function logo(){
+            var lg = document.getElementById("logo");
+            var ct ="<a href='#'><img src='Img/679160.jpg'/></a>";
+            lh.innerHTML = ct;
+        };
+        setTimeout(logo,1000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS</title>
+</head>
+<body>
+<script type="text/javascript">
+    // code js viet o day
+    var x=10;
+    if(x>5){
+        let y=20;
+    }
+    let y=10;
+    let k;// biet rang k la 1 bien nhung chua cap o nho
+    k=10;// k la 1 number
+    k = "xin chao"; // k tro thanh 1 string
+    console.log("k = "+k);// giong printf trong C
+    const c = 25; // hang so
+    let ar = [];// khai bao ar la 1 mang trong
+    ar[0] = 12;
+    ar[1] = "hello";
+    ar[2] = [];
+    ar[10000] =9;
+    ar[2][1] = "xin chao";
+    ar[2][0] = [];
+    ar[2][0][3] = 8;
+    console.log(ar);
+
+    var arr = [];
+    arr[0] = 1;
+    arr[1] = "xin chao";
+    arr[2] = 9;
+
+    var arr2=[];
+    arr2[0] = [1,2,3,4];
+    arr2[1] = [1,2,3,4];
+    arr2[2] = [1,2,3,4];
+
+    // object
+    let ob = {}; // giong struct trong C
+    ob.name = "le van nam";
+    ob.age = 19;
+    ob.birthday = '26/10/1999';
+    console.log(ob);
+    if(ob.age > 18){
+        console.log(ob.name+" da den tuoi truong thanh");
+    }else{
+        console.log(ob.name+" chua du tuoi truong thanh");
+    }
+
+    var sv = [1,4,2,5,6,7,8,4,2];
+    for(let i=0;i<sv.length;i++){
+        console.log("SV - "+sv[i]);
+    }
+    Hello();
+    function TinhTong(a,b) {
+        return a+b;
+    }
+    function Hello() {
+        console.log("hello world");
+    }
+    var d = TinhTong(5,3);
+    //alert("Day la canh bao!");
+    //var kq = confirm("Ban co chac chan muon mua hang?");// true or false
+    //console.log("KQ: "+kq);
+    var p = prompt("Vui long dien ten cua ban:");// tra ve 1 string
+    console.log(p);
+    var age = prompt("Nhap tuoi cua ban:");// string
+    age = parseInt(age); // parseFloat
+    // 19 -> 19
+    // 19abc-> 19
+    // a19b -> NaN - not a number -> co ham isNaN() de kiem tra xem co phai NaN ko
+    // 1a9 -> 1
+    console.log(age);
+    do{
+        var a = prompt("Nhap so may man:");
+        a = parseInt(a);
+    }while(a<0|| a>99 || isNaN(a));
+    // yeu cau nguoi dung phai nhap 1 so tu 0 -> 99
+    // tao 1 so ngau nhien trong 0-99
+    var luckynumber = parseInt(Math.random()*100);
+    // thong bao ket qua trung thuong
+    if(a == luckynumber){
+        alert("Chuc mung ban da trung thuong!");
+    }
+</script>
+<script type="text/javascript">
+    // Vietlot
+    var lucky = [];// mang 5 so ngau nhien ko trung nhau
+    for(let i=0;i<5;i++){
+        let x;
+        do{
+            x = parseInt(Math.random()*100);
+        }while(lucky.includes(x) || isNaN(x));
+        lucky[i] = x;
+    }
+    console.log(lucky);
+    var myNumbers = []; // mang 5 so lua chon ko trung nhau
+    for(let i=0;i<5;i++){
+        let x;
+        do{
+            x = prompt("Nhap so may man:");
+            x = parseInt(x);
+        }while (myNumbers.includes(x)|| isNaN(x));
+        myNumbers[i] =x;
+    }
+    // kiem tra xem co trung giai
+    let sl = 0;
+    for(let i=0;i<5;i++){
+        if(lucky.includes(myNumbers[i]))
+            sl++;
+    }
+    if(sl == 5)
+        alert("Chuc mung da trung thuong 100ty");
+</script>
+</body>
+</html>
