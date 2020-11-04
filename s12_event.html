@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test event</title>
+    <link rel="stylesheet" href="css/s12_event.css">
+</head>
+<body>
+    <div id="box"
+         onmouseenter="hover1(this)"
+         onmouseleave="hover2(this)"
+    ></div>
+    <button type="button" onclick="click1(this)">Click</button>
+    <input type="text" name="User name"
+    placeholder="User name..."
+           onkeydown="key1(this)"
+           onkeyup="key2(this)"
+           onkeypress="key3(this)"
+           oncopy="cop1()"
+           oncut="cop1()"
+           onpaste="cop1()"
+    />
+    <select name="city"
+    onchange="change1(this)"
+    >
+        <option value="1">value 1</option>
+        <option value="2">value 2</option>
+        <option value="3">value 3</option>
+        <option value="4">value 4</option>
+    </select>
+    <script src="JS/app.js"></script>
+
+</body>
+</html>

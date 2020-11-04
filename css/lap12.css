@@ -1,0 +1,22 @@
+.box{
+    width: 600px;
+    height: 600px;
+    background-color: #28a4c9;
+text-align: center;
+}
+.white{
+    background-color: white;
+}
+.col-md-2 span{
+    font-size: 30px;
+}
+.margin{
+    margin-left: 20%;
+}.margin2{
+    margin-left: 10%;
+    margin-right: 20%;
+}
+ .p{
+     margin: 10px;
+
+ }

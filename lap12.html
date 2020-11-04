@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lap12</title>
+    <link rel="stylesheet" href="lib/bootsrap 3.4.1/css/bootstrap.css">
+    <link rel="stylesheet" href="css/lap12.css">
+
+</head>
+<body>
+
+<section>
+    <div class="container">
+        <div class="col-md-6 col-md-offset-3">
+            <div class="form-group">
+                <input id="input-time" min="0" placeholder="Nhập số phút..." type="number" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <button type="button" onclick="TimerCountdown();" class="btn btn-danger">Start</button>
+            </div>
+            <div class="form-group">
+                <span id="min" class="alert-success">00</span>:
+                <span id="sec" class="alert-danger">00</span>
+            </div>
+            <p id="warning" class="alert-warning"></p>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="col-md-6 col-md-offset-3">
+            <div class="form-group">
+                <button type="button" onclick="ClockTime()" class="btn btn-primary">Xem giờ</button>
+            </div>
+            <div class="form-group">
+                <span id="hour" class="alert-success">00</span>:
+                <span id="minute" class="alert-danger">00</span>:
+                <span id="second" class="alert-danger">00</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="JS/lap12.js"></script>
+
+</body>
+</html>

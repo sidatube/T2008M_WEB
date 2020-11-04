@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>As12</title>
+    <link rel="stylesheet" href="css/As12.css">
+    <link rel="stylesheet" href="lib/bootsrap 3.4.1/css/bootstrap.css">
+
+</head>
+<body>
+
+<section>
+    <div class="container">
+        <div class="col-md-6 col-md-offset-3">
+            <div class="form-group">
+                <input id="nhap-gio" min="0" placeholder="Nhập số phút..." type="number" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <button type="button" onclick="start1();" class="btn btn-danger">Start</button>
+                <button type="button" onclick="pause1();" class="btn btn-primary">Pause</button>
+                <button type="button" onclick="stop();" class="btn btn-success">Stop</button>
+            </div>
+            <div class="form-group">
+                <span id="min" class="alert-success">00</span>:
+                <span id="sec" class="alert-danger">00</span>
+            </div>
+            <p id="warning" class="alert-warning"></p>
+        </div>
+    </div>
+</section>
+
+
+<script src="JS/As12.js"></script>
+
+</body>
+</html>
