@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/As12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/As12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lap12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anhbt/product.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/As12.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lap12.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lap13.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/s12_event.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon/star,5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon/star-off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon/star-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lap12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lap13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s12_event.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/as13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/as13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/as13.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,13 +152,8 @@
       <workItem from="1604451208991" duration="375000" />
       <workItem from="1604452258892" duration="3000" />
       <workItem from="1604453064796" duration="7823000" />
-    </task>
-    <task id="LOCAL-00015" summary="code">
-      <created>1602241799522</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1602241799522</updated>
+      <workItem from="1604462462920" duration="3204000" />
+      <workItem from="1604476199654" duration="2170000" />
     </task>
     <task id="LOCAL-00016" summary="code">
       <created>1602241914163</created>
@@ -510,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604280551849</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="code">
+      <created>1604462583056</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1604462583057</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,11 +530,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604281102805" />
-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1604280551031">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1604462582381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602396818347" />
-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604280551031" />
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604462582381" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603078937702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -559,11 +547,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602073136191" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604280555523">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604462584963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602396822727" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604280555523" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604462584963" />
     <state x="94" y="0" width="1575" height="1028" key="dock-window-1" timestamp="1603073079809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
