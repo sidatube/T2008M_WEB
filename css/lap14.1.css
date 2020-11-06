@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+.phan-tren{
+    background-color: #707070;
+    color: #28a4c9;
+    padding: 25px 0;
+}
+.phan-duoi{
+    color: #7a7a7a;
+    padding: 20px 0;
+}
+
+.phan-duoi p{
+    color: #63c5ea;
+}.p1{
+     font-size: 18px;
+     color: #7a7a7a;
+
+ }
+ img{
+     max-width: 100%;
+ }
