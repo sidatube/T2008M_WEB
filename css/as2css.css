@@ -3,7 +3,7 @@ body{
     font-size: 16px;
     line-height: 1.25;
     font-weight: 300;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 div{
     width: 50%;
@@ -17,7 +17,7 @@ img{
 span{
     float: right;
 }
-#p2{
+.p2{
     text-decoration: underline;
     color: #ff0000;
     border-top: dashed #ff0000 2px;
