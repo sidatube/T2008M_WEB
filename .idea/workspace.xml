@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/Grid_API.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lap14.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/lap14.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lap14.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lap14.html" afterDir="false" />
+    <list default="true" id="6b7d61d1-e87d-4112-ab45-fc502e746335" name="Default Changelist" comment="code">
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/Kiemtra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/anoceanofsky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/durban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/robben-island.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BWS_Set10/touristen_wild_coast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiemtra.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Font/Font" beforeDir="false" afterPath="$PROJECT_DIR$/Font/Font" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,19 +63,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WEB\icon" />
-      <recent name="D:\WEB" />
-      <recent name="D:\WEB\lib" />
-      <recent name="D:\WEB\anhbt\Anhlap7" />
-      <recent name="D:\WEB\anhbt" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WEB" />
       <recent name="D:\WEB\JS" />
       <recent name="D:\WEB\anhbt\Anhlap7" />
       <recent name="D:\WEB\anhbt" />
       <recent name="D:\WEB\lib\bootsrap 3.4.1\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB\icon" />
+      <recent name="D:\WEB" />
+      <recent name="D:\WEB\lib" />
+      <recent name="D:\WEB\anhbt\Anhlap7" />
+      <recent name="D:\WEB\anhbt" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -160,14 +165,16 @@
       <workItem from="1604625200700" duration="55000" />
       <workItem from="1604625512464" duration="934000" />
       <workItem from="1604626939287" duration="9493000" />
-      <workItem from="1604651550143" duration="305000" />
-    </task>
-    <task id="LOCAL-00018" summary="code">
-      <created>1602244440115</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1602244440115</updated>
+      <workItem from="1604651550143" duration="1242000" />
+      <workItem from="1604666697852" duration="616000" />
+      <workItem from="1604670143354" duration="788000" />
+      <workItem from="1604719483874" duration="626000" />
+      <workItem from="1604730026666" duration="868000" />
+      <workItem from="1604835344502" duration="54000" />
+      <workItem from="1604934699435" duration="124000" />
+      <workItem from="1604935596681" duration="14000" />
+      <workItem from="1605193141370" duration="33000" />
+      <workItem from="1605667954330" duration="3542000" />
     </task>
     <task id="LOCAL-00019" summary="code">
       <created>1602244482936</created>
@@ -505,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604627033298</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="code">
+      <created>1604651882463</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1604651882463</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,28 +551,32 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604281102805" />
-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1604627032411">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1604652007597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602396818347" />
-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604627032411" />
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604652007597" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603078937702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603078937702" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1603675304047">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1605667992104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603675304047" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605667992104" />
     <state x="839" y="0" key="RollbackChangesDialog" timestamp="1604626730706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="0" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604626730706" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604627060898">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604651886281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602396822727" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604627060898" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604651886281" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605193149932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605193149932" />
     <state x="94" y="0" width="1575" height="1028" key="dock-window-1" timestamp="1603073079809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -567,9 +585,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603677600964" />
-    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1604455512608">
+    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1605668865733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604455512608" />
+    <state x="623" y="112" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605668865733" />
   </component>
 </project>
